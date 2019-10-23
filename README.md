@@ -1,5 +1,5 @@
 # PPOB
 Login
-![alt text](https://github.com/ClarissaSanindita/Web_Kuliner/blob/master/1.PNG)
+![alt text](https://github.com/ClarissaSanindita/PPOB/blob/master/1.png)
 Dashboard
-![alt text](https://github.com/ClarissaSanindita/Web_Kuliner/blob/master/2.PNG)
+![alt text](https://github.com/ClarissaSanindita/PPOB/blob/master/2.png)
