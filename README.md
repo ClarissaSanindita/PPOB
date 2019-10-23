@@ -4,4 +4,4 @@ Login
 Dashboard
 ![alt text](https://github.com/ClarissaSanindita/PPOB/blob/master/2.png)
 ERD
-![alt text](https://github.com/ClarissaSanindita/PPOB/blob/master/Capture.png)
+![alt text](https://github.com/ClarissaSanindita/PPOB/blob/master/Capture.PNG)
